@@ -1,0 +1,5 @@
+{
+  "name": "SolarGuard: Rural Battery Health Assistant",
+  "description": "A smart assistant for rural solar users to monitor battery health and predict usage based on weather data.",
+  "requestFramePermissions": ["geolocation", "microphone"]
+}
